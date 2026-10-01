@@ -1,0 +1,5 @@
+.claude/settings.local.json
+
+# Arquivos temporários do Microsoft Office
+~$*
+~WRL*.tmp
